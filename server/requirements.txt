@@ -15,7 +15,7 @@ itsdangerous==0.24
 meld3==1.0.0
 mido==1.1.17
 mock==2.0.0
-numpy==1.11.2
+numpy==1.21.0
 pbr==1.10.0
 pretty-midi==0.2.6
 protobuf==3.0.0
