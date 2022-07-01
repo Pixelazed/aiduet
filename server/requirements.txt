@@ -21,7 +21,7 @@ pretty-midi==0.2.6
 protobuf==3.0.0
 requests==2.4.3
 six==1.10.0
-supervisor==3.0
+supervisor==3.0.1
 urllib3==1.9.1
 virtualenv==1.11.6
 wheel==0.29.0
